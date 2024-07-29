@@ -65,7 +65,7 @@ List of awesome WordPress resources to build an amazing WordPress site - Prepare
 3. **[Tuts+ WordPress](https://tutsplus.com/courses/build-a-responsive-wordpress-theme)** - A platform offering high-quality courses and tutorials on WordPress development and design.
 4. **[WordPress.tv](https://wordpress.tv/)** - A tute site by the Automattic team the creator of WordPress, it offers all technical knowledge and has videos too.
 5. **[WordPress Mastery Udemy Course](https://www.udemy.com/course/learn-wordpress-using-wordpress-to-make-6-figures-online/)** - Best rated udemy course to learn WordPress.
-6. **[WordPress Mastery Udemy Course](https://www.youtube.com/@NayyarShaikh/videos)** - Best Youtuber to learn full WordPress site creation.
+6. **[Nayyar Shaikh YouTube Channel](https://www.youtube.com/@NayyarShaikh/videos)** - Best YouTuber to learn full WordPress site creation.
 
 ## SAI Plugins
 1. **[SAI Ultimate Pack](https://sikhado.com)** - A comprehensive plugin pack offering a range of functionalities to enhance your WordPress site.
