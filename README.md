@@ -1,2 +1,2 @@
-# awesome-wordpress
-List of awesome WordPress resources to build an amazing WordPress site - sikhado.com
+# Awesome-wordpress
+List of awesome WordPress resources to build an amazing WordPress site - Prepared by Sikhado.com
